@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kaysanshaikh" alt="kaysanshaikh" /></a> </p>
 
-- 🌱 I’m currently learning **Next.js, TypeScript, Docker, and AI-based tools**
+- 🌱 I’m currently learning **Next.js, TypeScript, Kubernetes, and AI-based tools**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-lilac-nine-46.vercel.app/](https://portfolio-lilac-nine-46.vercel.app/)
 
