@@ -11,7 +11,7 @@
 
 - 📝 My LinkedIn Profile [https://www.linkedin.com/in/kaysanshaikh/](https://www.linkedin.com/in/kaysanshaikh/)
 
-- 💬 Ask me about **Programming Languages such as Java, Python, C++, C, JavaScript, Frontend Development such as HTML, CSS, JavaScript, ReactJS, TailwindCSS, Bootstrap Backend Development such as Node.js, Express.js, Java (Spring), Python (Flask, FastAPI)**
+- 💬 Ask me about **Programming Languages : Java, Python, C++, C, JavaScript, Frontend Development : HTML, CSS, JavaScript, ReactJS, TailwindCSS, Bootstrap Backend Development : Node.js, Express.js, Java (Spring), Python (Flask, FastAPI)**
 
 - 📫 How to reach me **shaikhkaysan@gmail.com**
 
